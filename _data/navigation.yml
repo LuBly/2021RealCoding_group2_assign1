@@ -3,7 +3,7 @@ main:
   - title: "이규빈 소개"
     url: /hello/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  -
+  
   - title: "박현호 소개"
     url: /hello2/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
