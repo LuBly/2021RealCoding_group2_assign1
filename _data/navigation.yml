@@ -1,10 +1,21 @@
 # main links
 main:
-  - title: "갑돌이 소개"
+  - title: "이규빈 소개"
     url: /hello/
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "갑순이 소개"
-    url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  
+  - title: "박현호 소개"
+    url: /hello2/
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+  - title: "박우현 소개"
+    url: /hello3/
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  -
+  - title: "심규원 소개"
+    url: /hello4/
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -13,3 +24,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+post:
+  - title: "스위프트"
+    url: /categories/스위프트
+  - title: "여기에 제목이랑"
+    url: /categories/여기에다가카테고리적기
