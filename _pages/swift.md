@@ -3,7 +3,7 @@ title: "Swift"
 permalink: /categories/스위프트
 layout: category
 author_profile: false
-taxonomy: Swift
+taxonomy: 스위프트
 sidebar:
     title: "전체 카테고리"
     nav: post
