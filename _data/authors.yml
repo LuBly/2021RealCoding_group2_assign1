@@ -10,7 +10,7 @@
       url: "https://github.com/gyubin-code"
     - label: "소개"
       icon: "fas fa-user"
-      url: /hello/
+      url: /2021RealCoding_group2_assign1/hello/
 
 박우현:
   name        : "박우현"
@@ -24,7 +24,7 @@
       url: "https://github.com/warpdev"
     - label: "소개"
       icon: "fas fa-user"
-      url: /hello3/
+      url: /2021RealCoding_group2_assign1/hello3/
 
 박현호:
   name        : "박현호"
@@ -38,7 +38,7 @@
       url: "https://github.com/LuBly"
     - label: "소개"
       icon: "fas fa-user"
-      url: /hello2/
+      url: /2021RealCoding_group2_assign1/hello2/
 
 심규원:
   name        : "심규원"
@@ -52,4 +52,4 @@
       url: "https://github.com/skwony"
     - label: "소개"
       icon: "fas fa-user"
-      url: /hello4/
+      url: /2021RealCoding_group2_assign1/hello4/
