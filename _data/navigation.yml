@@ -24,3 +24,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+post:
+  - title: "스위프트"
+    url: /categories/스위프트
+  - title: "여기에 제목이랑"
+    url: /categories/여기에다가카테고리적기
