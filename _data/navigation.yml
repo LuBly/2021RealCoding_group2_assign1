@@ -30,3 +30,9 @@ post:
     url: /categories/스위프트
   - title: "여기에 제목이랑"
     url: /categories/여기에다가카테고리적기 #page에 만든 카테고리 보여주기 페이지의 permalink와 같게맞추기
+
+post:
+  - title: "Git 명령어 정리"
+    url: /categories/git
+   
+ 
